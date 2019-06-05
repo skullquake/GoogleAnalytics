@@ -1,5 +1,3 @@
-# Diff: Add configurability
-
 # Google Analytics Custom Widget
 
 Track pageviews and custom event with Google Analytics. If you have an e-commerce application, you can also use this widget to keep track of your transactions.
